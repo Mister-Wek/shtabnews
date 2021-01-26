@@ -1,0 +1,76 @@
+<header style="background-color:red">
+<title>Штаб News</title>
+<center> <h1 class="n" style="font-family: Segoe UI; font-size: 300%;">Штаб News</h1> </center>
+
+
+
+</header>
+<main>
+<i> <h2 style="font-family: Segoe UI" class="slogon"> Коротко, о <u>главном</u> </h2> </i> 
+<p>
+<hr size="4" color="red">
+<h4 style="font-family: Segoe UI" class="news"> 31 января пройдут повторные митинги. Рекомендуем записать телефон <a href="https://ovdinfo.org">OВД-Инфо</a> - 8 800 707 05 28 </h4>  
+<hr size="4" color="red">
+</p>
+<p>
+
+<h4 style="font-family: Segoe UI" class="news"> "Скучно, девочки". Путин назвал расследование Навального монтажом</h4>  
+<hr size="4" color="red">
+</p>
+
+<p>
+
+<h4 style="font-family: Segoe UI" class="news"> По данным <a href="https://ovdinfo.org">OВД-Инфо</a> на митингах 23 января задержали 3893 человек</h4>  
+<hr size="4" color="red">
+</p>
+
+<p>
+
+<h4 style="font-family: Segoe UI" class="news"> Вас задержали на митинге? Вам нужна другая юридическая помощь? Пишите на почту pravo@navalny.com</h4>  
+<hr size="4" color="red">
+</p>
+</main>
+<footer>
+
+<center> <h3 class="n"> 2021 - 2021 <h3> </center>
+<center> <h3 class="n"> stabnavelnogo@gmail.com</h3> </center>
+
+</footer>
+<style> 
+.n {
+color:white;
+font-family: Segoe UI;
+}
+footer {
+background-color:red;
+}
+footer {
+    position: fixed; /* Фиксированное положение */
+    left: 0; bottom: 0; /* Левый нижний угол */
+    padding: 10px; /* Поля вокруг текста */
+    background: red; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    width: 100%; /* Ширина слоя */
+	
+   }
+.news {
+color:red;
+}
+a { 
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+   } 
+
+.slogon {
+background-color: red;
+color: white;
+}	
+main {
+background-color:black;
+}
+	
+</style>
+
+
+
+
+
